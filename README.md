@@ -6,7 +6,9 @@
     Rápido e expansível. 
 
 Técnologias:
-    Reconhecimento de voz
-    Síntase de voz
-    Algum de IA.
+    Reconhecimento de voz: (Google para reconhecimento online. vosk para reconhecimento offiline)
+    Síntase de voz: (pyttsx3)
+    Algum de IA: Commands, NLU (Classificação de texto)
+    
+
     

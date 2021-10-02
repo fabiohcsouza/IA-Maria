@@ -34,7 +34,6 @@ while True:
         result = json.loads(result)
         if result is not None:
             text = result['text']
-
             print(text)
             #speak(text)
             if text == 'que horas são' or text == 'me diga as horas':
